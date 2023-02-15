@@ -1,0 +1,15 @@
+C:\HTL\Htl cooding\045.solver\bin\Debug\net7.0\045.solver.exe
+C:\HTL\Htl cooding\045.solver\bin\Debug\net7.0\045.solver.deps.json
+C:\HTL\Htl cooding\045.solver\bin\Debug\net7.0\045.solver.runtimeconfig.json
+C:\HTL\Htl cooding\045.solver\bin\Debug\net7.0\045.solver.dll
+C:\HTL\Htl cooding\045.solver\bin\Debug\net7.0\045.solver.pdb
+C:\HTL\Htl cooding\045.solver\obj\Debug\net7.0\045.solver.csproj.AssemblyReference.cache
+C:\HTL\Htl cooding\045.solver\obj\Debug\net7.0\045.solver.GeneratedMSBuildEditorConfig.editorconfig
+C:\HTL\Htl cooding\045.solver\obj\Debug\net7.0\045.solver.AssemblyInfoInputs.cache
+C:\HTL\Htl cooding\045.solver\obj\Debug\net7.0\045.solver.AssemblyInfo.cs
+C:\HTL\Htl cooding\045.solver\obj\Debug\net7.0\045.solver.csproj.CoreCompileInputs.cache
+C:\HTL\Htl cooding\045.solver\obj\Debug\net7.0\045.solver.dll
+C:\HTL\Htl cooding\045.solver\obj\Debug\net7.0\refint\045.solver.dll
+C:\HTL\Htl cooding\045.solver\obj\Debug\net7.0\045.solver.pdb
+C:\HTL\Htl cooding\045.solver\obj\Debug\net7.0\045.solver.genruntimeconfig.cache
+C:\HTL\Htl cooding\045.solver\obj\Debug\net7.0\ref\045.solver.dll
